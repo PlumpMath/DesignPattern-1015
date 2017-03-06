@@ -72,4 +72,31 @@ namespace DesignPattern.Singleton
             }
         }
     }
+
+
+    /// <summary>
+    /// 单例模式，静态初始化
+    /// </summary>
+    public sealed class SingletonStaticInit
+    {
+        private static readonly SingletonStaticInit _instance = new SingletonStaticInit();
+
+        static SingletonStaticInit()
+        {
+
+        }
+
+        private SingletonStaticInit()
+        {
+
+        }
+
+        public static SingletonStaticInit Instance
+        {
+            get
+            {
+                return _instance;
+            }
+        }
+    }
 }
