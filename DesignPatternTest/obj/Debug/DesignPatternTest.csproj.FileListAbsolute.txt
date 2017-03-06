@@ -1,0 +1,8 @@
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\obj\Debug\DesignPatternTest.csprojResolveAssemblyReference.cache
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\bin\Debug\DesignPatternTest.dll
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\bin\Debug\DesignPatternTest.pdb
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\bin\Debug\DesignPattern.dll
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\bin\Debug\DesignPattern.pdb
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\obj\Debug\DesignPatternTest.dll
+E:\gitopensource\Core\DesignPattern\DesignPatternTest\obj\Debug\DesignPatternTest.pdb

@@ -1,0 +1,4 @@
+E:\gitopensource\Core\DesignPattern\ClassLibrary1\bin\Debug\DesignPattern.dll
+E:\gitopensource\Core\DesignPattern\ClassLibrary1\bin\Debug\DesignPattern.pdb
+E:\gitopensource\Core\DesignPattern\ClassLibrary1\obj\Debug\DesignPattern.dll
+E:\gitopensource\Core\DesignPattern\ClassLibrary1\obj\Debug\DesignPattern.pdb
